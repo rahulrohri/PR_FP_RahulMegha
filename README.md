@@ -43,27 +43,27 @@ Conclusion:
 The grpahs indicate that in majority of the boroughs , The average incident time was higher for boroughs with a higher population density. Staten Island has the fastest average response time whereas Manhattan had an average response time of over 12 minutes over the past one year.
 
 
-References
+References <br /> 
+https://github.com/iSchool-590pr/PR_Sp20_examples/blob/master/week_07/class7_pandas_pt2.ipynb <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_index.html <br /> 
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html <br /> 
+https://stackoverflow.com/questions/41800424/remove-rows-in-python-less-than-a-certain-value <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html <br /> 
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.xs.html <br />
+https://stackoverflow.com/questions/25386870/pandas-plotting-with-multi-index<br />
+https://stackoverflow.com/questions/49350445/correlation-coefficient-of-two-columns-in-pandas-dataframe-with-corr<br/> 
+https://pandas.pydata.org/pandas-docs/version/0.16.0/visualization.html<br />
+https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o
+https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/<br/>   
 
-https://github.com/iSchool-590pr/PR_Sp20_examples/blob/master/week_07/class7_pandas_pt2.ipynb
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_index.html
-https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
-https://stackoverflow.com/questions/41800424/remove-rows-in-python-less-than-a-certain-value
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.xs.html
-https://stackoverflow.com/questions/25386870/pandas-plotting-with-multi-index
-https://stackoverflow.com/questions/49350445/correlation-coefficient-of-two-columns-in-pandas-dataframe-with-corr
-https://pandas.pydata.org/pandas-docs/version/0.16.0/visualization.html
-https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/
-
-Data Sources
-
-https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
-https://catalog.data.gov/dataset/nypd-arrests-data-historic
-https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp
-https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj
-https://worldpopulationreview.com/us-cities/new-york-city-population/
-https://en.wikipedia.org/wiki/Demographics_of_New_York_City
+<br /> 
+Data Sources<br /> 
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i<br /> 
+https://catalog.data.gov/dataset/nypd-arrests-data-historic<br /> 
+https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp<br /> 
+https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj<br /> 
+https://worldpopulationreview.com/us-cities/new-york-city-population/ <br/>
+https://en.wikipedia.org/wiki/Demographics_of_New_York_City<br/> 
