@@ -8,7 +8,8 @@
 # Hypothesis 1:
 The number of crimes decreased in neighborhoods where the previous number of arrests is high indicating that maybe the police force is handling the situations better.
 
-Add images here 
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%201.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%202.PNG?raw=true)
 
 Conclusion: 
 The graphs indicate that in majority of the boroughs , as the number of crimes decrease, the number of arrests decrease as well. Thus, our hypothesis does not stand true.
@@ -17,15 +18,18 @@ The graphs indicate that in majority of the boroughs , as the number of crimes d
 # Hypothesis 2:
 There exist certain types of crimes where there is prejudice against the victims of a race
 
-Add images here 
-
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%201.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%202.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%203.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%204.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%205.PNG?raw=true)
 Conclusion: 
 In majority of the crimes we analyzed (for example Larceny, Felony, Assault etc.) Black and White Hispanics in general have been targeted the most. Thus, our hypothesis does stand true.
 
 # Hypothesis 3:
 The population density of a neighborhood impacts the number of complaints/crimes reported there.(E.g. Is there an inverse trend of the number of crimes with the population density or not).
 
-Add images here 
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%203.PNG?raw=true)
 
 Conclusion: 
 Despite there being a relatively strong correlation of 0.72742 between the population density and crime per capita, we did not see an inverse trend across all boroughs. Thus, our hypothesis does not stand true.
@@ -33,7 +37,8 @@ Despite there being a relatively strong correlation of 0.72742 between the popul
 # Hypothesis 4:
 There exists a trend between the type of crimes reported in NYC and the neighborhood they occurred in. (e.g. There are a greater number of theft cases in Brooklyn than any other region)
 
-Add images here 
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%204%20-%20Part%201.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%204%20-%20Part%202.PNG?raw=true)
 
 Conclusion: 
 We observed that in Brooklyn , burglary crime count was relatively the highest whereas Felony Assault was relatively the highest in Bronx. Frauds in general were very low compared to other crimes in NYC
@@ -41,8 +46,9 @@ We observed that in Brooklyn , burglary crime count was relatively the highest w
 # Hypothesis 5:
 The population density is directly proportional the average response time taken by an emergency unit to respond to that incident. (E.g. Are the instances of the vehicle taking more time to reach the emergency spot greater in densely populated neighborhoods?).
 
-![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%202.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%201.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%202.PNG?raw=true)
+
 
 Conclusion: 
 The graphs indicate that in majority of the boroughs , The average incident time was higher for boroughs with a higher population density. Staten Island has the fastest average response time whereas Manhattan had an average response time of over 12 minutes over the past one year.
