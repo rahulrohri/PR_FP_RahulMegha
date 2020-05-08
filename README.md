@@ -11,7 +11,7 @@ The number of crimes decreased in neighborhoods where the previous number of arr
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%201.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%202.PNG?raw=true)
 
-###### Conclusion: 
+### Conclusion: 
 The graphs indicate that in majority of the boroughs , as the number of crimes decrease, the number of arrests decrease as well. Thus, our hypothesis does not stand true.
 
 
