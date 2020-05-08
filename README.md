@@ -23,6 +23,7 @@ There exist certain types of crimes where there is prejudice against the victims
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%203.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%204.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%205.PNG?raw=true)
+
 Conclusion: 
 In majority of the crimes we analyzed (for example Larceny, Felony, Assault etc.) Black and White Hispanics in general have been targeted the most. Thus, our hypothesis does stand true.
 
