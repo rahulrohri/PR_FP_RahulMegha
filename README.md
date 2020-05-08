@@ -11,7 +11,7 @@ The number of crimes decreased in neighborhoods where the previous number of arr
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%201.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%201%20-%20Part%202.PNG?raw=true)
 
-Conclusion: 
+###### Conclusion: 
 The graphs indicate that in majority of the boroughs , as the number of crimes decrease, the number of arrests decrease as well. Thus, our hypothesis does not stand true.
 
 
@@ -24,7 +24,7 @@ There exist certain types of crimes where there is prejudice against the victims
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%204.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%202%20-%20Part%205.PNG?raw=true)
 
-Conclusion: 
+###### Conclusion: 
 In majority of the crimes we analyzed (for example Larceny, Felony, Assault etc.) Black and White Hispanics in general have been targeted the most. Thus, our hypothesis does stand true.
 
 # Hypothesis 3:
@@ -32,7 +32,7 @@ The population density of a neighborhood impacts the number of complaints/crimes
 
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%203.PNG?raw=true)
 
-Conclusion: 
+###### Conclusion: 
 Despite there being a relatively strong correlation of 0.72742 between the population density and crime per capita, we did not see an inverse trend across all boroughs. Thus, our hypothesis does not stand true.
 
 # Hypothesis 4:
@@ -41,7 +41,7 @@ There exists a trend between the type of crimes reported in NYC and the neighbor
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%204%20-%20Part%201.PNG?raw=true)
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%204%20-%20Part%202.PNG?raw=true)
 
-Conclusion: 
+###### Conclusion: 
 We observed that in Brooklyn , burglary crime count was relatively the highest whereas Felony Assault was relatively the highest in Bronx. Frauds in general were very low compared to other crimes in NYC
 
 # Hypothesis 5:
@@ -51,7 +51,7 @@ The population density is directly proportional the average response time taken 
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%202.PNG?raw=true)
 
 
-Conclusion: 
+###### Conclusion: 
 The graphs indicate that in majority of the boroughs , The average incident time was higher for boroughs with a higher population density. Staten Island has the fastest average response time whereas Manhattan had an average response time of over 12 minutes over the past one year.
 
 
