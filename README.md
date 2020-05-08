@@ -1,6 +1,9 @@
 # Analysis of Public Safety Trends in New York City
-# To Be Updated
-Write Project Brief Intro here
+
+
+# Team Members
+1) Megha Manglani (GitHub id – meghamm2)
+2) Rahul Ohri (GitHub id- rahulrohri)
 
 # Hypothesis 1:
 The number of crimes decreased in neighborhoods where the previous number of arrests is high indicating that maybe the police force is handling the situations better.
