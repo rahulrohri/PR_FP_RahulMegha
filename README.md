@@ -43,6 +43,8 @@ The population density is directly proportional the average response time taken 
 
 Add images here 
 
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%201.PNG?raw=true)
+
 Conclusion: 
 The graphs indicate that in majority of the boroughs , The average incident time was higher for boroughs with a higher population density. Staten Island has the fastest average response time whereas Manhattan had an average response time of over 12 minutes over the past one year.
 
