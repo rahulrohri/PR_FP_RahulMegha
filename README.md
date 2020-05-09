@@ -47,7 +47,7 @@ We observed that in Brooklyn , burglary crime count was relatively the highest w
 The population density is directly proportional the average response time taken by an emergency unit to respond to that incident. (E.g. Are the instances of the vehicle taking more time to reach the emergency spot greater in densely populated neighborhoods?).
 
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%201.PNG?raw=true)
-![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20Part%202.PNG?raw=true)
+![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%205%20-%20part%202.PNG?raw=true)
 
 
 
