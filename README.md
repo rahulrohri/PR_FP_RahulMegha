@@ -32,7 +32,7 @@ The population density of a neighborhood impacts the number of complaints/crimes
 ![alt text](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Images/Hypothesis%203.PNG?raw=true)
 
 ### Conclusion: 
-Despite there being a relatively strong correlation of 0.72742 between the population density and crime per capita, we did not see an inverse trend across all boroughs. Thus, our hypothesis does not stand true.
+Despite there being a relatively strong correlation of 0.7275 between the population density and crime per capita, we did not see an inverse trend across all boroughs. Thus, our hypothesis does not stand true.
 
 # Hypothesis 4:
 There exists a trend between the type of crimes reported in NYC and the neighborhood they occurred in. (e.g. There are a greater number of theft cases in Brooklyn than any other region)
