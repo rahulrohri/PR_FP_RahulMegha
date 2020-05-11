@@ -11,7 +11,9 @@ New York City is considered to be the 'Dream City' by people all across the glob
 
 ## Files and Folders in our GitHub Repository
 ### 1 . [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
- - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named Final_Project_Code_IS590PR.ipynb which contains the entire code (including functions, graphs and doctests).
+ - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named [Final_Project_Code_IS590PR.ipynb]((https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb)) which contains the entire code (including functions, graphs and doctests).
+### 2 . [Final_Project_Code_IS590PR.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb)
+ - In this notebook we are explicitly creating functions, writing doctests and checking if the doctests passed or not. There is another jupyter notebook named [Final_Code_IS590PR_Import_Func](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb) which contains the entire code without explicit function creation. In that notebook, the functions are being imported from the Final_Project_Code_IS590PR_Functions.py file.
 
 ## Datasets used for our analysis
 Since the files are over 6.5 gb , we could not upload them on githbu and have hence provided a google drive link from where the datasets used for our project can be downloaded -> https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
