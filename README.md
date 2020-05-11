@@ -28,7 +28,7 @@ New York City is considered to be the 'Dream City' by people all across the glob
  - The folder contains all the dummy csv files that we had created to test our doctests across the numerous functions that we created. These dummy files hold no significance in the actual code for our project.
 
 ## Datasets used for our analysis
-Since the files are over 6.5 gb , we could not upload them on githbu and have hence provided a google drive link from where the datasets used for our project can be downloaded -> https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
+Since the files are over 6.5 gb , we could not upload them on github and have hence provided a google drive link from where the datasets used for our project can be downloaded -> https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
 
 
 ## Updated datasets can be downloaded from these official data sources
