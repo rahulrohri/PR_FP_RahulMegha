@@ -1,0 +1,26 @@
+Borough,Year,FIPS County Code,NTA Code,NTA Name,Population
+Queens,2000,81,QN28,Jackson Heights,113327
+Queens,2000,81,QN29,Elmhurst,87972
+Queens,2000,81,QN30,Maspeth,28916
+Staten Island,2000,85,SI35,New Brighton-Silver Lake,16784
+Staten Island,2000,85,SI36,Old Town-Dongan Hills-South Beach,23017
+Staten Island,2000,85,SI37,Stapleton-Rosebank,24048
+Bronx,2010,5,BX01,Claremont-Bathgate,31078
+Bronx,2010,5,BX03,Eastchester-Edenwald-Baychester,34517
+Bronx,2010,5,BX05,Bedford Park-Fordham North,54415
+Bronx,2010,5,BX06,Belmont,27378
+Brooklyn,2010,47,BK58,Flatlands,64762
+Brooklyn,2010,47,BK60,Prospect Lefferts Gardens-Wingate,67459
+Brooklyn,2010,47,BK61,Crown Heights North,103169
+Manhattan,2010,61,MN09,Morningside Heights,55929
+Manhattan,2010,61,MN11,Central Harlem South,43383
+Manhattan,2010,61,MN12,Upper West Side,132378
+Queens,2010,81,QN72,Steinway,47534
+Queens,2010,81,QN76,Baisley Park,34603
+Queens,2010,81,QN98,Airport,0
+Queens,2010,81,QN99,park-cemetery-etc-Queens,436
+Staten Island,2010,85,SI01,Annadale-Huguenot-Prince's Bay-Eltingville,27770
+Staten Island,2010,85,SI05,New Springville-Bloomfield-Travis,39597
+Staten Island,2010,85,SI07,Westerleigh,24102
+Staten Island,2010,85,SI08,Grymes Hill-Clifton-Fox Hills,22460
+Staten Island,2010,85,SI11,Charleston-Richmond Valley-Tottenville,23313
