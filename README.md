@@ -1,5 +1,5 @@
-# Final Project for IS590PR  - University of Illinois - Urbana Champaign
-# Analysis of Public Safety Trends in New York City
+## Final Project for IS590PR  - University of Illinois - Urbana Champaign
+## Analysis of Public Safety Trends in New York City
 
 ## Project Overview
 New York City is considered to be the 'Dream City' by people all across the globe. It is home to some of the most iconic attractions like the Empire State building, Times Square, Brooklyn Bridge and the Broadway theater to name a few. NYC majorly comprises of 5 boroughs, Bronx, Brooklyn, Manhattan, Queens and Staten Island out of which Manhattan is among the world’s major commercial, financial and cultural centers. Being avid admirers of The Big Apple ourselves, both of us were very intrigued to know more about how habitable this city is, in terms of the safety aspect. We took into consideration a variety of elements relating to public safety like the Crime and Arrest data, various social aspects like 'Racism Prevalent' and how quickly or slowly emergency services assist people. Our analysis will prove to be beneficial to anyone who is planning to move to NYC as it will enable you to weigh factors that contribute in making a city amicable. Our results are depicted per borough that will facilitate you in concluding which borough will be the most pertinent to your preferences.
@@ -10,7 +10,7 @@ New York City is considered to be the 'Dream City' by people all across the glob
 2) Rahul Ohri (GitHub id- rahulrohri)
 
 ## Files and Folders in our GitHub Repository
-# 1 . Final_Code_IS590PR_Import_Func.ipynb
+## 1 . Final_Code_IS590PR_Import_Func.ipynb
  - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named Final_Project_Code_IS590PR.ipynb which contains the entire code (including functions, graphs and doctests).
 
 ## Datasets used for our analysis
