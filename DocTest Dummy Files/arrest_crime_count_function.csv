@@ -1,0 +1,11 @@
+CMPLNT_NUM,CMPLNT_FR_DT,BORO_NM,Complaint_Filed_Month,Complaint_Filed_Year
+1,8/29/2006,Borough_A,8,2006
+2,11/5/2006,Borough_B,11,2006
+3,9/8/2006,Borough_C,9,2006
+4,12/13/2011,Borough_D,12,2011
+5,8/14/2009,Borough_A,8,2009
+6,8/29/2006,Borough_B,8,2001
+7,11/5/2006,Borough_C,11,1990
+8,9/8/2006,Borough_D,9,1999
+9,12/13/2011,Borough_A,12,1004
+10,8/14/2009,Borough_B,8,2015
