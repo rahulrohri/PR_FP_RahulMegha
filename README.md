@@ -56,7 +56,7 @@ The population density is directly proportional the average response time taken 
 The graphs indicate that in majority of the boroughs , The average incident time was higher for boroughs with a higher population density. Staten Island has the fastest average response time whereas Manhattan had an average response time of over 12 minutes over the past one year.
 
 
-References <br /> 
+References:<br /> 
 https://github.com/iSchool-590pr/PR_Sp20_examples/blob/master/week_07/class7_pandas_pt2.ipynb <br /> 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html <br /> 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html <br /> 
@@ -73,10 +73,14 @@ https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-v
 https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/<br/>   
 
 <br /> 
-Data Sources<br /> 
+Data Sources:<br /> 
 https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i<br /> 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic<br /> 
 https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp<br /> 
 https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj<br /> 
 https://worldpopulationreview.com/us-cities/new-york-city-population/ <br/>
 https://en.wikipedia.org/wiki/Demographics_of_New_York_City<br/> 
+
+<br />
+Drive link for downloading the datasets used in our analysis:<br />
+https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
