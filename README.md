@@ -10,7 +10,7 @@ New York City is considered to be the 'Dream City' by people all across the glob
 2) Rahul Ohri (GitHub id- rahulrohri)
 
 ## Files and Folders in our GitHub Repository
-### 1 . [Final_Code_IS590PR_Import_Func.ipynb] (https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
+### 1 . [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
  - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named Final_Project_Code_IS590PR.ipynb which contains the entire code (including functions, graphs and doctests).
 
 ## Datasets used for our analysis
