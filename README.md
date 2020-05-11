@@ -2,9 +2,24 @@
 
 New York City is considered to be the 'Dream City' by people all across the globe. It is home to some of the most iconic attractions like the Empire State building, Times Square, Brooklyn Bridge and the Broadway theater to name a few. NYC majorly comprises of 5 boroughs,Bronx, Brooklyn, Manhattan, Queens and Staten Island out of which Manhattan is among the world’s major commercial, financial and cultural centers. Being avid admirers of The Big Apple ourselves, both of us were very intrigued to know more about how habitable this city is, in terms of the safety aspect. We took into consideration a variety of elements relating to public safety like the Crime and Arrest data, various social aspects like 'Racism Prevalent' and how quickly or slowly emergency services assist people. Our analysis will prove to be beneficial to anyone who is planning to move to NYC as it will enable you to weigh factors that contribute in making a city amicable. Our results are depicted per borough that will facilitate you in concluding which borough will be the most pertinent to your preferences.
 
+
 # Team Members
 1) Megha Manglani (GitHub id – meghamm2)
 2) Rahul Ohri (GitHub id- rahulrohri)
+
+
+# Datasets used for our analysis
+https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
+
+
+# Updated datasets can be downloaded from these official data sources
+https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i<br /> 
+https://catalog.data.gov/dataset/nypd-arrests-data-historic<br /> 
+https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp<br /> 
+https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj<br /> 
+https://worldpopulationreview.com/us-cities/new-york-city-population/ <br/>
+https://en.wikipedia.org/wiki/Demographics_of_New_York_City<br/> 
+
 
 # Hypothesis 1:
 The number of crimes decreased in neighborhoods where the previous number of arrests is high indicating that maybe the police force is handling the situations better.
@@ -72,15 +87,4 @@ https://pandas.pydata.org/pandas-docs/version/0.16.0/visualization.html<br />
 https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-values-from-other-columns-apply-a-function-o
 https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/<br/>   
 
-<br /> 
-Data Sources:<br /> 
-https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i<br /> 
-https://catalog.data.gov/dataset/nypd-arrests-data-historic<br /> 
-https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp<br /> 
-https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj<br /> 
-https://worldpopulationreview.com/us-cities/new-york-city-population/ <br/>
-https://en.wikipedia.org/wiki/Demographics_of_New_York_City<br/> 
 
-<br />
-Drive link for downloading the datasets used in our analysis:<br />
-https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
