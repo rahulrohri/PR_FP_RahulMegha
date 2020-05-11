@@ -10,10 +10,18 @@ New York City is considered to be the 'Dream City' by people all across the glob
 2) Rahul Ohri (GitHub id- rahulrohri)
 
 ## Files and Folders in our GitHub Repository
-### 1 . [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
- - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named [Final_Project_Code_IS590PR.ipynb]((https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb)) which contains the entire code (including functions, graphs and doctests).
-### 2 . [Final_Project_Code_IS590PR.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb)
+### 1. [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
+ - In this notebook we are not explicitly creating functions. It is rather importing our already developed functions from the   Final_Project_Code_IS590PR_Functions.py file. There is another jupyter notebook named [Final_Project_Code_IS590PR.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb) which contains the entire code (including functions, graphs and doctests).
+### 2. [Final_Project_Code_IS590PR.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.ipynb)
  - In this notebook we are explicitly creating functions, writing doctests and checking if the doctests passed or not. There is another jupyter notebook named [Final_Code_IS590PR_Import_Func](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb) which contains the entire code without explicit function creation. In that notebook, the functions are being imported from the Final_Project_Code_IS590PR_Functions.py file.
+### 3. [Final_Project_Code_IS590PR.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR_Functions.py)
+ - This file can be used to check doctest coverage. This file serves as an input to the notebook [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb) and needs to be imported at the start to load all necessary functions
+### 4. [Older Versions of Code](https://github.com/rahulrohri/final_project_2020Sp/tree/master/Older%20Versions%20of%20Code)
+ - This folder was used to track the version control for our project. It contains all the notebooks our team made throughout this project. These files should not be downloaded as they are incomplete versions of our code.
+### 5. [Images](https://github.com/rahulrohri/final_project_2020Sp/tree/master/Images)
+ - This folder contains all the images that were generated for our hypotheses. They just serve as a reference to be imported for our Read.me file
+### 6. [DocTest Dummy Files](https://github.com/rahulrohri/final_project_2020Sp/tree/master/DocTest%20Dummy%20Files)
+ - The folder contains all the dummy csv files that we had created to test our doctests across the numerous functions that we created. These dummy files hold no significance in the actual code for our project.
 
 ## Datasets used for our analysis
 Since the files are over 6.5 gb , we could not upload them on githbu and have hence provided a google drive link from where the datasets used for our project can be downloaded -> https://drive.google.com/open?id=1g_StaWiaWQyNjNOu3wlFKG2dsIJZjyjF
