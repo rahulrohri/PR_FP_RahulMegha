@@ -127,7 +127,7 @@ Megha worked on creating the following functions, their corresponding doc string
  - Megha also worked on developing the code for Hypothesis 2 and 3
  - The final files – “Final_Code_IS590PR_Import_Func.ipynb” and “Final_Project_Code_IS590PR_Functions.py” were prepared by Megha
 
- - The folder “Older Versions of Code” contains 10 notebook versions where both of us worked together. The meetings took place regularly via Zoom and we shared our progress with the instructor on a weekly basis as well during his office hours. The read.me file was a combined effort as well.
+The folder “Older Versions of Code” contains 10 notebook versions where both of us worked together. The meetings took place regularly via Zoom and we shared our progress with the instructor on a weekly basis as well during his office hours. The read.me file was a combined effort as well.
 
- - The presentation done in class was a combined effort as well
+The presentation done in class was a combined effort as well
 
