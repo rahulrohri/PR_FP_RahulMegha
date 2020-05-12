@@ -19,7 +19,7 @@ New York City is considered to be the 'Dream City' by people all across the glob
 ### 4. [Final_Project_Code_IS590PR_Functions.py](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR_Functions.py)
  - This file can be used to check doctest coverage. This file serves as an input to the notebook [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb) and needs to be imported at the start to load all necessary functions
 ### 5. [How to run Final_Project_Code_IS590PR.pdf](https://github.com/rahulrohri/final_project_2020Sp/blob/master/How%20to%20run%20Final_Project_Code_IS590PR.pdf)
- - This instruction files is used as a reference to run the [Final_Project_Code_IS590PR_Functions.py](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR_Functions.py) file
+ - This instruction file is used as a reference to run the [Final_Project_Code_IS590PR.py](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Project_Code_IS590PR.py) file
 ### 6. [Older Versions of Code](https://github.com/rahulrohri/final_project_2020Sp/tree/master/Older%20Versions%20of%20Code)
  - This folder was used to track the version control for our project. It contains all the notebooks our team made throughout this project. These files should not be downloaded as they are incomplete versions of our code.
 ### 7. [Images](https://github.com/rahulrohri/final_project_2020Sp/tree/master/Images)
