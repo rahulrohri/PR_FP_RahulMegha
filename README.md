@@ -107,7 +107,7 @@ https://stackoverflow.com/questions/26886653/pandas-create-new-column-based-on-v
 https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/<br/>   
 
 ## Work Distribution:
-Rahul worked on creating the following functions, their corresponding doc strings, their doc tests and their dummy doctest files
+-> Rahul worked on creating the following functions, their corresponding doc strings, their doc tests and their dummy doctest files
 1.	dataset_validation
 2.	get_file
 3.	get_crime_results
@@ -116,7 +116,7 @@ Rahul worked on creating the following functions, their corresponding doc string
  - Rahul also worked on developing the code for Hypothesis 1 and 4
  - The final files “Final_Project_Code_IS590PR.ipynb” , “Final_Project_Code_IS590PR.py” and “Final_Project_Code_IS590PR.pdf” were prepared by Rahul
 
-Megha worked on creating the following functions, their corresponding doc strings, their doc tests and their dummy doctest files
+-> Megha worked on creating the following functions, their corresponding doc strings, their doc tests and their dummy doctest files
 1.	extract_year_month
 2.	get_arrest_or_crime_count
 3.	EMS_details
@@ -127,7 +127,7 @@ Megha worked on creating the following functions, their corresponding doc string
  - Megha also worked on developing the code for Hypothesis 2 and 3
  - The final files – “Final_Code_IS590PR_Import_Func.ipynb” and “Final_Project_Code_IS590PR_Functions.py” were prepared by Megha
 
-The folder “Older Versions of Code” contains 10 notebook versions where both of us worked together. The meetings took place regularly via Zoom and we shared our progress with the instructor on a weekly basis as well during his office hours. The read.me file was a combined effort as well.
+-> The folder “Older Versions of Code” contains 10 notebook versions where both of us worked together. The meetings took place regularly via Zoom and we shared our progress with the instructor on a weekly basis as well during his office hours. The read.me file was a combined effort as well.
 
-The presentation done in class was a combined effort as well
+-> The presentation done in class was a combined effort as well
 
