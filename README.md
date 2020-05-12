@@ -114,7 +114,7 @@ https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-o
 4.	population_density_details
 5.	plot_graph
  - Rahul also worked on developing the code for Hypothesis 1 and 4
- - The final files “Final_Project_Code_IS590PR.ipynb” , “Final_Project_Code_IS590PR.py” and “Final_Project_Code_IS590PR.pdf” were prepared by Rahul
+ - The final files “Final_Project_Code_IS590PR.ipynb” , “Final_Project_Code_IS590PR.py” and “How to run Final_Project_Code_IS590PR.pdf” were prepared by Rahul
 
 -> Megha worked on creating the following functions, their corresponding doc strings, their doc tests and their dummy doctest files
 1.	extract_year_month
