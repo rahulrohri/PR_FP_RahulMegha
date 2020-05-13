@@ -6,8 +6,8 @@ New York City is considered to be the 'Dream City' by people all across the glob
 
 
 ## Team Members
-1) Megha Manglani (GitHub id – meghamm2)
-2) Rahul Ohri (GitHub id- rahulrohri)
+1) Megha Manglani (GitHub id – github.com/meghamm2)
+2) Rahul Ohri (GitHub id- github.com/rahulrohri)
 
 ## Files and Folders in our GitHub Repository
 ### 1. [Final_Code_IS590PR_Import_Func.ipynb](https://github.com/rahulrohri/final_project_2020Sp/blob/master/Final_Code_IS590PR_Import_Func.ipynb)
